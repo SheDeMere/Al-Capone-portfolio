@@ -1,0 +1,164 @@
+body {
+    font-family: 'Roboto', sans-serif;   
+}
+header{
+    background-image: url(img/%D0%93%D0%BE%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D1%82.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 50px;
+    padding-bottom: 390px;
+    color: white;
+}
+.logo-text {
+    font-size: 30px;
+}
+header .nav li {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 20px;
+
+}
+.big-text {
+    font-size: 90px;
+    padding-top: 250px;
+    padding-bottom: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+.big-bottom {
+    font-size: 50px;
+    padding-bottom: 100px;
+    font-family: 'Roboto', sans-serif;
+}
+.u-text {
+    font-size: 25px;
+    margin-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+.about-section {
+    padding-top: 150px;
+    padding-bottom: 200px;
+    font-size: 23px;
+}
+.about-text {
+    padding-bottom: 80px;
+    font-weight: bold;
+    font-size: 40px;
+}
+.section-skills {
+    background: linear-gradient(to right, #6441a5, #2a0845);
+    padding-bottom: 250px;
+    color: white;
+}
+.skills-text {
+    font-size: 40px;
+    font-weight: bold;
+    padding-bottom: 50px;
+    padding-top: 200px;
+}
+.al-capone {
+    width: 450px;
+    height: 542px;
+    border: solid 5px;
+}
+.back-progress {
+    width: 100%;
+    height: 30px;
+    background-color: #fff;
+    margin-bottom: 50px;
+}
+.front-progress {
+    width: 80%;
+    height: 30px;
+    background-color: #7300ff; 
+}
+.back-progress-2 {
+    width: 100%;
+    height: 30px;
+    background-color: #fff;
+    margin-bottom: 50px;
+}
+.front-progress-2 {
+    width: 40%;
+    height: 30px;
+    background-color: #7300ff; 
+}
+.back-progress-3 {
+    width: 100%;
+    height: 30px;
+    background-color: #fff;
+    margin-bottom: 50px;
+}
+.front-progress-3 {
+    width: 60%;
+    height: 30px;
+    background-color: #7300ff; 
+}
+.progress-bars {
+    font-size: 23px;
+    border: solid 5px;
+    padding: 10px;
+}
+.text-profile {
+    padding-bottom: 40px;
+}
+.info-p {
+    margin-bottom: 30px;
+}
+.text-portfolio {
+    margin-top: 200px;
+    margin-bottom: 50px;
+    font-weight: bold;
+    
+}
+.portfolio-bottom {
+    font-size: 24px;
+    font-weight: 600;
+}
+.img-1 {
+    width: 100%;
+    height: 100%;
+    padding-bottom: 30px;
+
+}
+.img-2 {
+    width: 100%;
+    height: 100%;
+}
+.img-3 {
+    width: 100%;
+    height: 100%;
+
+}
+.img-4 {
+    width: 100%;
+    height: 100%;
+    margin-top: 30px
+}
+.portfolio-info {
+    font-size: 25px;
+}
+.fa-chevron-left {
+    font-size: 35px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.fa-chevron-right {
+    font-size: 35px;
+    padding-bottom: 150px;
+}
+footer {
+    background: linear-gradient(to right, #6441a5, #2a0845);
+    color: white;
+    font-size: 20px;
+    padding-top: 150px;
+    padding-bottom: 130px;
+}
+footer .col-4 {
+    margin-top: 10px;
+    margin-bottom: 10px
+}
+footer h2 {
+    font-weight: bold;
+    font-size: 40px;
+    padding-bottom: 20px;
+} 
